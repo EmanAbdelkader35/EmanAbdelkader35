@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Eman Ali
+- 👀 I’m interested in **Data Science**
+- 🌱 I’m currently learning **Google Data Analytics**
+- 💞️ I’m looking to collaborate on **chemistry and product data analysis projects**
